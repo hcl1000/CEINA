@@ -180,7 +180,6 @@ apply{
         }
 #endif
     }
-    }
 
         // MIRROR : FIXME:
         // session_id_allocation_table.apply();
